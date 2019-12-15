@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340612053380",
+    "firebase_url": "https://panic-button-ee90e.firebaseio.com",
+    "project_id": "panic-button-ee90e",
+    "storage_bucket": "panic-button-ee90e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340612053380:android:5574ad6bce5d7c7efa45d1",
+        "android_client_info": {
+          "package_name": "com.example.panicbutton2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340612053380-jubehbm016tidc74canefggr3aegr0rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panicbutton2",
+            "certificate_hash": "f9ae134185c97896db0609a9263c89c8da986894"
+          }
+        },
+        {
+          "client_id": "340612053380-tpguo1q1d5thp7dqbrluvkluuc5bpkfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIqIA8TAKMzjhfiW3tVi5ZL9X-cQU64E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340612053380-tpguo1q1d5thp7dqbrluvkluuc5bpkfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
