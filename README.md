@@ -1,3 +1,3 @@
-# furry-goggles
+# Panic Button
 
 University Project 
